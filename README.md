@@ -3,7 +3,7 @@
 ![](https://github.com/TECA-IOT/Shield-Ufox/blob/main/images/shield%20ufox_.png )
 
 ## 1.2 Caracteristicas
-- Fuente tipo switching autoregulado a 5V de alta eficiencia.
+- Regulador de voltaje de tipo switching autoregulado a 5V de alta eficiencia.
 - Cargador de bateria de litio de 1 celda (3.7V) con sistema inteligente de proteccion de sobrecargar y sobredescarga incorporada.
 - Entrada de voltaje DC con conector JACK con voltaje de entrada desde 6V hasta 20V. 
 - Jumper selector de voltaje seleccionable para perifericos, seleccionable de 2 tipos: voltaje de bateria de litio y voltaje de 5V.
