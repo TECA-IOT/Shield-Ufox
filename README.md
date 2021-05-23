@@ -1,5 +1,6 @@
 # SHIELD UFOX
 ## I. Tarjeta escudo para devkit Ufox
+
 ![](https://github.com/TECA-IOT/Shield-Ufox/blob/main/images/shield%20ufox_.png )
 
 ## 1.2 Caracteristicas
@@ -29,4 +30,7 @@
 | Voltaje de periféricos (+V)  | Vbateria, 5 Voltios, 3 Voltios      |
 
 ## 1.4 Descripcion de pines Shield Ufox
+
+![](https://github.com/TECA-IOT/Shield-Ufox/blob/main/images/shield%20ufox%20pinout.png )
+
 
