@@ -7,7 +7,7 @@
 - Cargador de bateria de litio de 1 celda (3.7V) con sistema inteligente de proteccion de sobrecarga y sobredescarga incorporada.
 - Entrada de voltaje DC con conector JACK con voltaje de entrada desde 6V hasta 20V. 
 - Jumper selector de voltaje seleccionable para perifericos, seleccionable de 2 tipos: voltaje de bateria de litio y voltaje de 5V.
-- Compatible con Paneles solares compatibles con voltajes desde 6V a 20V.
+- Etrada de voltaje compatible con paneles solares con voltajes soportados desde 6V a 20V. (recomendable emplear paneles con corriente que suministren desde 100mA a 2000 mA)
 - Pines de de facil disposicion para multipropositos, compatibles con headers de 2.54 mm de espaciado.
 - led azul indicador de carga de baterias.
 - Conectores de tipo JST de facil conexión con bateria de litio.
