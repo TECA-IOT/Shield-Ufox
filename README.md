@@ -21,13 +21,12 @@
 | Descripcion | Unidad                    |
 | ------------- | ------------------------------|
 | Voltaje Minimo  VIN (JACK DC) |  6 Voltios    |  
-| Voltaje Maximo  VIN (JACK DC) |  20 Voltios   |  
+| Voltaje Máximo  VIN (JACK DC) |  20 Voltios   |  
 | Voltaje Típico  VIN (JACK DC) |  12 Voltios   |  
-| Corriente maxima de regulador de voltaje   | 2 Amperios  |
+| Corriente máxima de regulador de voltaje   | 2 Amperios  |
 | Voltaje de sistema de carga baterias de litio |  3.6 a 4.2 Voltios     | 
-| Corriente máxima de sistema de carga de baterias   | 500mA     |
-|  Voltaje de periféricos (+V)  | Vbateria, 5 Voltios, 3 Voltios      |
+| Corriente máxima de sistema de carga de baterias   | 500 mA     |
+| Voltaje de periféricos (+V)  | Vbateria, 5 Voltios, 3 Voltios      |
 
-## 1.4 Descripcion de pines Ufox
+## 1.4 Descripcion de pines Shield Ufox
 
-![](https://github.com/TECA-IOT/Ufox/blob/master/image/PINOUT_ufox_R1_3.png)
