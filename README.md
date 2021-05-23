@@ -16,7 +16,7 @@
 - Las baterias pueden cargarse mediante la entrada de voltaje JACK y mediante la entrada de Voltaje USB desde el devkit ufox.
 - Si no existe entradas de voltaje por USB o JACK DC, la alimentacion del sistema es por defecto mediante la bateria de litio.
 
-## 1.3 Caracteristicas Electricas
+## 1.3 Caracteristicas Eléctricas
 
 | Descripcion | Unidad                    |
 | ------------- | ------------------------------|
