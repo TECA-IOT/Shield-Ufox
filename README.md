@@ -6,7 +6,7 @@
 - Regulador de voltaje de tipo switching autoregulado a 5V de alta eficiencia.
 - Cargador de bateria de litio de 1 celda (3.7V) con sistema inteligente de proteccion de sobrecarga y sobredescarga incorporada.
 - Entrada de voltaje DC con conector JACK con voltaje de entrada desde 6V hasta 20V. 
-- Jumper selector de voltaje seleccionable para perifericos, seleccionable de 2 tipos: voltaje de bateria de litio y voltaje de 5V.
+- Jumper selector de voltaje para perifericos, seleccionable de 2 tipos: voltaje de bateria de litio y voltaje de 5V.
 - Etrada de voltaje compatible con paneles solares con voltajes soportados desde 6V a 20V. (recomendable emplear paneles con corriente que suministren desde 100mA a 2000 mA)
 - Pines de de facil disposicion para multipropositos, compatibles con headers de 2.54 mm de espaciado.
 - led azul indicador de carga de baterias.
@@ -19,12 +19,12 @@
 
 | Descripcion | Unidad                    |
 | ------------- | ------------------------------|
-| Voltaje Minimo  Vin (JACK DC) |  6 Voltios    |  
-| Voltaje Maximo  Vin (JACK DC) |  20 Voltios   |  
+| Voltaje Minimo  VIN (JACK DC) |  6 Voltios    |  
+| Voltaje Maximo  VIN (JACK DC) |  20 Voltios   |  
 | Corriente maxima de regulador   | 3 Amperios  |
 | Voltaje de sistema de carga baterias de litio |  3.6 a 4.2 Voltios     | 
 | Corriente máxima de sistema de carga de baterias   | 500mA     |
-|  Voltaje de periféricos   | Vbateria, 5 Voltios, 3 Voltios      |
+|  Voltaje de periféricos (+V)  | Vbateria, 5 Voltios, 3 Voltios      |
 
 ## 1.4 Descripcion de pines Ufox
 
