@@ -9,9 +9,10 @@
 - Jumper selector de voltaje para perifericos, seleccionable de 2 tipos: voltaje de bateria de litio y voltaje de 5V.
 - Etrada de voltaje compatible con paneles solares con voltajes soportados desde 6V a 20V. (recomendable emplear paneles con corriente que suministren desde 100mA a 2000 mA)
 - Pines de de facil disposicion para multipropositos, compatibles con headers de 2.54 mm de espaciado.
-- led azul indicador de carga de baterias, Cuando esta cargando el led esta encendido y cuando termina de cargar, el led se apaga automaticamente.
-- Conectores de tipo JST de facil conexión con bateria de litio.
-- pines para soldadura de multiples propositos.
+- Led azul indicador de carga de baterias, cuando esta cargando el led esta encendido y cuando termina de cargar el led se apaga automaticamente.
+- Conectores de tipo JST para facil conexión con bateria de litio.
+- Conector Tipo bornera atornillable para baterias de litio (Precaución, verificar la polaridad correcta)
+- Pines para soldadura de multiples propositos.
 - Las baterias pueden cargarse mediante la entrada de voltaje JACK y mediante la entrada de Voltaje USB desde el devkit ufox.
 - Si no existe entradas de voltaje por USB o JACK DC, la alimentacion del sistema es por defecto mediante la bateria de litio.
 
