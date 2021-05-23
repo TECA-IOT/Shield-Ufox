@@ -10,7 +10,7 @@
 - Etrada de voltaje compatible con paneles solares con voltajes soportados desde 6V a 20V. (recomendable emplear paneles con corriente que suministren desde 100mA a 2000 mA)
 - Pines de de facil disposicion para multipropositos, compatibles con headers de 2.54 mm de espaciado.
 - Led azul indicador de carga de baterias, cuando esta cargando el led esta encendido y cuando termina de cargar el led se apaga automaticamente.
-- Conectores de tipo JST para facil conexión con bateria de litio.
+- Conectores de tipo JST para facil conexión con celdas de litio estandar.
 - Conector Tipo bornera atornillable para baterias de litio (Precaución, verificar la polaridad correcta)
 - Pines para soldadura de multiples propositos.
 - Las baterias pueden cargarse mediante la entrada de voltaje JACK y mediante la entrada de Voltaje USB desde el devkit ufox.
