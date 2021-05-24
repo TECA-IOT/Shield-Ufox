@@ -29,7 +29,7 @@
 | Corriente máxima de sistema de carga de baterias   | 500 mA     |
 | Voltaje de periféricos (+V)  | Vbateria, 5 Voltios, 3 Voltios      |
 
-## 1.4 Descripcion de pines Shield Ufox
+## 1.4 Descripción de pines Shield Ufox
 
 ![](https://github.com/TECA-IOT/Shield-Ufox/blob/main/images/SHIELD%20UFOX%20SCHEMATICS.png)
 
