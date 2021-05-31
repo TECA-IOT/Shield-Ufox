@@ -37,4 +37,14 @@
 
 ![Shield Ufox front](https://github.com/TECA-IOT/Shield-Ufox/blob/main/images/shield%20ufox%20front.jpg)
 
+#Shield Ufox Usos
+- Paneles Solares
+- Agro
+- Estaciones Metereologicas
+- Sistemas UPS
+- Industria
+
+![Shield Ufox Usos](https://github.com/TECA-IOT/Shield-Ufox/blob/main/images/shield%20ufox%20usos.jpg)
+
+
 
