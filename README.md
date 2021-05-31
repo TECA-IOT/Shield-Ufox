@@ -32,6 +32,9 @@
 ## 1.4 Descripción de pines Shield Ufox
 
 ![Shield Ufox pinout](https://github.com/TECA-IOT/Shield-Ufox/blob/main/images/SHIELD%20UFOX%20SCHEMATICS_.png)
+
 ![Shield Ufox back](https://github.com/TECA-IOT/Shield-Ufox/blob/main/images/Shield%20Ufox%20Back.jpg)
+
+![Shield Ufox front](https://github.com/TECA-IOT/Shield-Ufox/blob/main/images/shield%20ufox%20front.jpg)
 
 
