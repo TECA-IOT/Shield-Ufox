@@ -42,6 +42,7 @@
 - Agro
 - Estaciones Metereologicas
 - Sistemas UPS
+- Medicion de nivel de agua en Pozos
 - Industria
 
 ![Shield Ufox Usos](https://github.com/TECA-IOT/Shield-Ufox/blob/main/images/shield%20ufox%20usos.jpg)
