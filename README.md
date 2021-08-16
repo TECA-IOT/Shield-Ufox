@@ -45,7 +45,13 @@
 - Medicion de nivel de agua en Pozos
 - Industria
 
+
 ![Shield Ufox Usos](https://github.com/TECA-IOT/Shield-Ufox/blob/main/images/shield%20ufox%20usos.jpg)
+
+Lectura de Sensor RS485 Modbus + Panel Solar + Baterias
+# Shield Ufox Usos
+![Shield Ufox Usos](https://github.com/TECA-IOT/Shield-Ufox/blob/main/images/esquematico%20rs485_sonda_nivel_bb_shield.png)
+
 
 
 
