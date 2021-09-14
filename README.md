@@ -50,7 +50,7 @@
 
 Lectura de Sensor RS485 Modbus + Panel Solar + Baterias
 # Shield Ufox Usos
-![Shield Ufox Usos](https://github.com/TECA-IOT/Shield-Ufox/blob/main/images/esquematico%20rs485_sonda_nivel_bb_shield.png)
+![Shield Ufox Usos](https://github.com/TECA-IOT/Water_Level_UFOX_RS485/blob/main/Image/esquematico%20rs485_shieldUfox_sonda_nivel_bb.png)
 
 
 
