@@ -35,7 +35,7 @@
 
 ![Shield Ufox back](https://github.com/TECA-IOT/Shield-Ufox/blob/main/images/Shield%20Ufox%20Back.jpg)
 
-![Shield Ufox front](https://github.com/TECA-IOT/Shield-Ufox/blob/main/images/shield%20ufox%20front.jpg)
+![Shield Ufox front](https://github.com/TECA-IOT/Shield-Ufox/blob/main/images/shield%20Ufox.png)
 
 ## 1.4.1 Shield Ufox V1.2 (Switch Ic para activacion de cargas)
 ![Shield Ufox front](https://github.com/TECA-IOT/Shield-Ufox/blob/main/images/shield%20ufox%20front.jpg)
